@@ -1,0 +1,2 @@
+# Ignorar directorio venv y archivos .pyc
+IGNORE_DIRS = ['.venv', '__pycache__']
